@@ -2395,6 +2395,7 @@ Most of these are paid services, some have free tiers.
 * [Realm Browser](https://github.com/realm/realm-browser-osx) - Realm Browser is a Mac OS X utility to open and modify realm database files.
 * [SuperDelegate](https://github.com/square/SuperDelegate) – SuperDelegate provides a clean application delegate interface and protects you from bugs in the application lifecycle.
 * [fastlane-plugin-appicon](https://github.com/KrauseFx/fastlane-plugin-appicon) - Generate required icon sizes and iconset from a master application icon.
+* [fastlane-plugin-versioning](https://github.com/SiarheiFedartsou/fastlane-plugin-versioning) - Extends fastlane versioning actions. Allows to set/get versions without using agvtool and do some other small tricks.
 * [infer](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C.
 * [PlayNow](https://github.com/marcboquet/PlayNow) - Small app that creates empty Swift playground files and opens them with Xcode. :large_orange_diamond:
 * [Xtrace](https://github.com/johnno1962/Xtrace) - Trace Objective-C method calls by class or instance
